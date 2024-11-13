@@ -6,7 +6,7 @@ This project demonstrates the **Strategy Design Pattern**, focusing on dynamic p
 ## Requirements Diagram
 Below is the requirements diagram for this project:
 
-![Requirements Diagram](https://drive.google.com/file/d/1jvv5jJ37eqD_giBoblgfXw2e4n07vH8y/view?usp=sharing)
+https://drive.google.com/file/d/1jvv5jJ37eqD_giBoblgfXw2e4n07vH8y/view?usp=sharing
 
 ## Functional Requirements
 1. Define a strategy interface for pricing.
